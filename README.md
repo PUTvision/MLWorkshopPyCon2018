@@ -24,7 +24,8 @@ sudo dnf install python3
 If you use less common distribution you probably know how to acquire Python 3.
 
 ### Windows
-You can download and use current Python 3 installer from [https://www.python.org/downloads/windows/]().
+You can download and use current Python 3 installer from
+[https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/).
 
 Although you probably won't encounter any problems with 32-bit (x86) version we recommend using 64-bit (x86-64) release
 on 64-bit system (you almost certainly have it) as it will be able to allocate more memory and therefore will allow you
@@ -79,7 +80,7 @@ jupyter notebook
 ```
 
 This command should start a server and open your default web browser. If it didn't or if you prefer to use other browser
-you can navigate to [http://localhost:8888/](). 
+you can navigate to [http://localhost:8888/](http://localhost:8888/). 
 
 The console window can be minimized, but don't close it as we need Jupyter server to keep running.
 
