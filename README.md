@@ -88,8 +88,21 @@ The console window can be minimized, but don't close it as we need Jupyter serve
 After opening the notebook app in your web browser you will see a list of files located in the directory you ran the
 server from.
 
-You can click on `Say hello to machine learning in Python.ipynb` file to open the workshop notebook.  
+You can click on `Say hello to machine learning in Python.ipynb` file to open the workshop notebook.
+
+### Execute initial cells
+In order to prepare development environment that will be used during the workshop execute all the cells from
+*Preparation of the development environment* section. This will install all required packages and import them. This step
+should complete without any errors.
+
+If you'd like to learn more about using Jupyter Notebook you can look for the instructions in the
+[documentation](https://jupyter-notebook.readthedocs.io/en/latest/index.html).
 
 ## Fallback solution
 If you had some serious problems with following the steps or you simply don't want to install anything on your computer
 you can use [Google Colaboratory](https://colab.research.google.com) for this workshop.
+
+
+## Contact
+If you tried executing these steps prior to the workshop and encountered some issues - feel free to
+[contact us](mailto:mkm0796@gmail.com,dominik.pieczynski@gmail.com).
